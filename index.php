@@ -8,7 +8,7 @@
 
 <body>
 <?php
-echo 'ddd';
+echo 'ddd 2';
 ?>
 </body>
 </html>
